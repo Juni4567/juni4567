@@ -1,5 +1,5 @@
 ### Experienced 👷‍♂️Nodejs, ✨Express 🍴 Rest Api 🐀Mongodb 
-I have extensive experience developing Web Projects over the last 7 years. I have worked on several projects using HTML, CSS, Javascript, and Node (Express/Serverless). Have great comfort with PHP, WordPress, HTML5, CSS3,PSD to HTML,PSD to WordPress, Web Developing, Responsive Designing, Web Designing, MySQL, Payment Integration, Adobe Photoshop, JavaScript, Jquery and other related Skills.
+I have extensive experience developing Web Projects over the last 7 years. Have great comfort with PHP, WordPress, HTML5, CSS3,PSD to HTML, PSD to WordPress, Responsive Designing, MySQL, Payment Integration, JavaScript, Jquery.
 
 ### Programming Languages
 <p dir="auto">
