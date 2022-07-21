@@ -1,6 +1,8 @@
 ### Experienced 👷‍♂️Nodejs, ✨Express 🍴 Rest Api 🐀Mongodb 
 I have extensive experience developing Web Projects over the last 7 years. Have great comfort with PHP, WordPress, HTML5, CSS3,PSD to HTML, PSD to WordPress, Responsive Designing, MySQL, Payment Integration, JavaScript, Jquery.
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=juni4567" data-canonical-src="https://github-readme-stats.vercel.app/api?username=juni4567" style="max-width: 100%;">
+
 ### Programming Languages
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0fad77ddd85292b8800107c5a51df2f64ff5126a0fe6dfa1eb7d4977032918e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652532306a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0fad77ddd85292b8800107c5a51df2f64ff5126a0fe6dfa1eb7d4977032918e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652532306a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -111,9 +113,3 @@ GROUPS and CHAT
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
-
-
-<img width="200" src="https://camo.githubusercontent.com/4ac5aa0c8de64fe5dac95cb9799e9c4596de014b9e4071d764c400548e36b918/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d616c6578616e64726573616e6c696d267468656d653d767565" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juni4567&amp;theme=vue" style="max-width: 100%;">
-
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=juni4567" data-canonical-src="https://github-readme-stats.vercel.app/api?username=juni4567" style="max-width: 100%;">
