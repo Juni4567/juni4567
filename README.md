@@ -34,3 +34,16 @@
 <a target="_blank" rel="noopener noreferrer" href="https://discordapp.com/users/Juni#3514"><img src="https://camo.githubusercontent.com/f868f43f3c084669121e55e633ca5c3e11d382872ab7db663789f5c736c71a43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="slack:junaid4567@gmail.com"><img src="https://camo.githubusercontent.com/870d2945e15dde83583f64ea1f3f4471702e45bf30fa884412da74cb7731ae42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666f722d7468652d6261646765266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="skype:juni4567?call"><img src="https://camo.githubusercontent.com/fcd3bb72be3395fcb376028f1f5da60e4a592adde706d4fc7b7fe55c0786c49b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536b7970652d3030414646303f7374796c653d666f722d7468652d6261646765266c6f676f3d736b797065266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&amp;logo=skype&amp;logoColor=white" style="max-width: 100%;"></a>
+
+
+### Cover letter
+My name is Junaid and I am a software engineer. I have been developing websites and applications for around 5 years. Most my experience lies in backend development and linux server administration. I have worked with HTML/CSS, Javascript/NodeJS, PHP, some automation libraries like puppeteer and playwright to automate data scraping tasks. 
+
+While I am not actively searching for a position, I heard that there is some Backend developer positions that are available and that happens to be the same direction that I want to take in my career. I also grew up playing Vice city multiplayer and almost all Assassin's creed releases except for the last 2 because I don't have time anymore!
+
+You will find high level summaries of my job duties/education history in my resume. If you want to see some of the projects that I work on in my spare time, see my GitHub profile: https://github.com/Juni4567 . 
+If you check out my github, it is mostly boilerplate projects that are not finalized. I do not feel that they are accurate representations of the quality of work that I bring as a full time employee but it will give you a sense of the technologies that I work with frequently. Most of my work has not been open sourced unfortunately. However, I am more than happy to create a sample web application project to showcase my full stack/Automation skills. 
+Sincerely, 
+Junaid Anwar
+junaid4567@gmail.com 
++92310-8511464 (not reachable atm as I am in Thailand for the next few days)
