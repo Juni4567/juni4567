@@ -37,13 +37,13 @@
 
 
 ### Cover letter
-My name is Junaid and I am a software engineer. I have been developing websites and applications for around 5 years. Most my experience lies in backend development and linux server administration. I have worked with HTML/CSS, Javascript/NodeJS, PHP, some automation libraries like puppeteer and playwright to automate data scraping tasks. 
+My name is Junaid and I am a software engineer. I have been developing websites and applications for more than 7 years. Most of my experience is in backend development specifically NodeJs, ExpressJs, MongoDB, Redis and REST APIs. I have also worked in the frontend development for a while and have experience with HTML/CSS, Javascript, jQuery, and PHP. Additionaly because I love to autmoate things; I have gained extensive knowledge of automation libraries i.e. puppeteer and playwright over the years. I can automate data scraping from various websites and make make sure to mimic a real browser and user.  
 
-While I am not actively searching for a position, I heard that there is some Backend developer positions that are available and that happens to be the same direction that I want to take in my career. I also grew up playing Vice city multiplayer and almost all Assassin's creed releases except for the last 2 because I don't have time anymore!
-
-You will find high level summaries of my job duties/education history in my resume. If you want to see some of the projects that I work on in my spare time, see my GitHub profile: https://github.com/Juni4567 . 
+You will find high level summaries of my job duties/education history in my resume. If you want to see some of the projects that I work on in my spare time. 
 If you check out my github, it is mostly boilerplate projects that are not finalized. I do not feel that they are accurate representations of the quality of work that I bring as a full time employee but it will give you a sense of the technologies that I work with frequently. Most of my work has not been open sourced unfortunately. However, I am more than happy to create a sample web application project to showcase my full stack/Automation skills. 
+
 Sincerely, 
+
 Junaid Anwar
+
 junaid4567@gmail.com 
-+92310-8511464 (not reachable atm as I am in Thailand for the next few days)
