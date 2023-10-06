@@ -37,7 +37,7 @@
 
 
 ### Cover letter
-My name is Junaid and I am a Software Engineer. I have been developing websites and applications for more than 7 years. Most of my experience is in backend development specifically NodeJS, ExpressJs, MongoDB, Redis and REST APIs. I have also worked in the frontend development for a while and have experience with HTML/CSS, JavaScript, jQuery, and PHP. 
+I have been developing websites and applications for more than 7 years. Most of my experience is in backend development specifically NodeJS, ExpressJs, MongoDB, Redis and REST APIs. I have also worked in the frontend development for a while and have experience with HTML/CSS, JavaScript, jQuery, and PHP. 
 
 Additionally because I love to automate things; I have gained extensive knowledge of automation libraries i.e. puppeteer and playwright over the years. I can automate data scraping from various websites and make make sure to mimic a real browser and user.
 
