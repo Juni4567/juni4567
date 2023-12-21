@@ -35,13 +35,9 @@
 <a target="_blank" rel="noopener noreferrer" href="slack:junaid4567@gmail.com"><img src="https://camo.githubusercontent.com/870d2945e15dde83583f64ea1f3f4471702e45bf30fa884412da74cb7731ae42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666f722d7468652d6261646765266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="skype:juni4567?call"><img src="https://camo.githubusercontent.com/fcd3bb72be3395fcb376028f1f5da60e4a592adde706d4fc7b7fe55c0786c49b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536b7970652d3030414646303f7374796c653d666f722d7468652d6261646765266c6f676f3d736b797065266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&amp;logo=skype&amp;logoColor=white" style="max-width: 100%;"></a>
 
-
-### Cover letter
-I have been developing websites and applications for more than 7 years. Most of my experience is in backend development specifically NodeJS, ExpressJs, MongoDB, Redis and REST APIs. I have also worked in the frontend development for a while and have experience with HTML/CSS, JavaScript, jQuery, and PHP. 
+I have been developing websites and applications for more than 7 years. Most of my experience is in backend development specifically NodeJS, ExpressJs, MongoDB, Redis and REST APIs. I have also worked in the frontend development for a while and have experience with HTML/CSS, JavaScript, jQuery.
 
 Additionally because I love to automate things; I have gained extensive knowledge of automation libraries i.e. puppeteer and playwright over the years. I can automate data scraping from various websites and make make sure to mimic a real browser and user.
-
-You will find high level summaries of my job duties/education history in my resume. If you want to see some of the projects that I work on in my spare time. If you check out my GitHub, it is mostly boilerplate projects that are not finalized. I do not feel that they are accurate representations of the quality of work that I bring as a full time employee but it will give you a sense of the technologies that I work with frequently. Most of my work has not been open sourced unfortunately. However, I am more than happy to create a sample web application project to showcase my full stack/Automation skills. 
 
 Sincerely, 
 
